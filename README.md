@@ -1,21 +1,18 @@
 <!-- ========================================================= -->
-
-<!--                    GITHUB PROFILE README                  -->
-
+<!--                 GITHUB PROFILE README                      -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 👋 Hey, I'm Abhishek
+# Hi, I'm Nishant 👋
 
-### `AI Engineer • AI Automation • Full-Stack Developer • Agent Builder`
+### `AI Automation Engineer • n8n Workflow Architect • RAG & LLM Systems Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Automation+Systems;Full-Stack+Developer+%7C+MERN+%2B+Next.js;RAG+%7C+LLMs+%7C+LangGraph+%7C+Pinecone;Turning+Ideas+Into+Real+AI+Products;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Production+AI+Automation+Systems;n8n+%7C+RAG+%7C+Pinecone+%7C+LangChain+%7C+LLMs;4th+Year+CS+Student+%7C+Turning+Theory+into+Systems;AI+Agents+that+Actually+Ship+to+Production" alt="Typing SVG" />
 
 <br/>
 
-
-\
+<a href="#"><img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20AI%2FAutomation%20Roles-brightgreen?style=for-the-badge"/></a>
 
 </div>
 
@@ -24,448 +21,142 @@
 ## 🧠 About Me
 
 ```python
-class Abhishek:
+class Nishant:
+    year = "4th Year — Computer Science"
+    role = "AI Automation Engineer"
 
-    role = "AI Engineer & Full-Stack Developer"
-
-    currently_building = [
-        "AI Agents",
-        "AI Automation Systems",
-        "RAG Applications",
-        "LLM-powered SaaS Products"
+    core_focus = [
+        "n8n Workflow Automation",
+        "RAG (Retrieval-Augmented Generation) Systems",
+        "AI Chat Agents & Assistants",
+        "Lead Generation & CRM Automation"
     ]
 
-    tech_focus = [
-        "Python",
-        "LLMs",
-        "LangChain",
-        "LangGraph",
-        "n8n",
-        "FastAPI",
-        "Next.js",
-        "MERN Stack",
-        "Vector Databases"
+    academic_foundation = [
+        "Operating Systems (Deadlocks, Banker's Algorithm, RAG diagrams)",
+        "Theory of Computation (PCP, Arden's Method, NFA/DFA)",
+        "Data Structures & Algorithms"
     ]
 
-    philosophy = "Don't just use AI. Build systems with AI."
-
-    goal = "Build intelligent products that solve real-world problems."
+    philosophy = "I don't just build workflows — I build systems that go live and handle real users."
 ```
 
----
-
-# ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Engineering
-
-* AI Agents
-* LLM Applications
-* RAG Systems
-* Prompt Engineering
-* Tool Calling
-* Agentic Workflows
-* LangChain
-* LangGraph
-* Vector Search
-* AI SaaS
-
-</td>
-
-<td width="50%">
-
-### ⚙️ AI Automation
-
-* n8n Automation
-* API Integrations
-* Web Scraping
-* Google Workspace Automation
-* AI Content Generation
-* Lead Generation
-* Email Automation
-* Workflow Orchestration
-* Telegram Bots
-* Voice AI
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💻 Full-Stack Development
-
-* React.js
-* Next.js
-* Node.js
-* Express.js
-* Python
-* FastAPI
-* REST APIs
-* Tailwind CSS
-* MongoDB
-* PostgreSQL
-
-</td>
-
-<td>
-
-### 🧩 AI Infrastructure
-
-* Pinecone
-* Weaviate
-* LangSmith
-* OpenAI APIs
-* Google Gemini
-* Git & GitHub
-* Postman
-* Vercel
-* Render
-* Docker
-
-</td>
-</tr>
-</table>
+I'm a Computer Science student who builds **production-grade AI automation systems** — not tutorial projects. My work spans AI chat agents with real memory & session handling, RAG pipelines backed by Pinecone, admissions/lead-generation systems for real institutions, and end-to-end scraping-to-database pipelines. Every workflow I ship is modular, documented, and built to actually run — not just demo.
 
 ---
 
-# 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,java,cpp" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,postgresql" />
 </p>
 
-### 🚀 Frontend
+**Automation & Orchestration:** `n8n` · `Webhooks` · `REST APIs` · `Google Sheets API` · `Gmail API` · `Google Drive API`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-</p>
+**AI / LLM Layer:** `OpenAI GPT-4o` · `Google Gemini` · `LangChain` · `Prompt Engineering` · `RAG` · `Tool Calling`
 
-### ⚙️ Backend
+**Data & Memory:** `Pinecone (Vector DB)` · `Supabase` · `Redis (Conversation Memory)`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Databases & Vector Stores
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
-</p>
-
-**Vector DB:** `Pinecone` • `Weaviate`
-
-### 🧠 AI / GenAI
-
-`OpenAI API` • `Google Gemini` • `LangChain` • `LangGraph` • `LangSmith` • `RAG` • `Prompt Engineering` • `Tool Calling` • `AI Agents`
-
-### 🔄 Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=n8n" />
-</p>
-
-**Automation:** `n8n` • `REST APIs` • `Webhooks` • `Google Sheets` • `Google Drive` • `Telegram` • `ElevenLabs`
-
-### ☁️ Tools & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify" />
-</p>
+**Integrations:** `Pipedrive CRM` · `Slack` · `Telegram` · `Runway Gen-4.5 API`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AI Resume Analyzer & Job Matcher
+### 🎓 AI Admissions & Counselling Agents
+> Multiple production RAG-based assistants built for real institutions, handling live admissions queries.
 
-> AI-powered SaaS for resume analysis, skill extraction and intelligent job matching.
+- **MedCounsel AI** — Structures and serves Indian medical college admission data (colleges, courses, seats, cutoffs) through an n8n-powered RAG assistant.
+- **AUFHS AI Assistant** — RAG/Pinecone-backed admissions & health-sciences assistant with a carefully engineered system prompt for accuracy.
+- **AICAMSR Admission Enquiry Workflow** — Automated lead intake with user validation, email/phone deduplication, Google Sheets storage, and Gmail notifications.
+- **NEET 2026 Lead Gen** — End-to-end lead generation and automated follow-up system for NEET aspirants.
+- **Accenture Career Agent** — Scrapes site content into structured sheets, indexes it in Pinecone, and serves answers via a GPT-4o mini chat model refined on real interactions.
 
-**Built with**
+### 💬 Production AI Chat Agent (n8n + Gemini + Supabase)
+> A modular, multi-user AI chat system — not a single webhook, a full platform.
 
-`MERN` `LLM APIs` `AI` `Prompt Engineering` `MongoDB` `React`
+- User & session management with persistent conversation memory
+- Automated summary emails and usage analytics
+- Built on Gemini + Supabase for scale and reliability
 
-### Features
+### 📄 Hybrid RAG PDF Chat Agent
+> Auto-detects whether a user uploaded a PDF or asked a plain question, and routes accordingly.
 
-* 📄 Resume parsing & analysis
-* 🎯 ATS-focused suggestions
-* 🧠 Skill extraction
-* 🔍 Job matching
-* 📊 Resume insights
-* 🤖 LLM-powered recommendations
+- Per-session Pinecone indexing for uploaded PDFs
+- Falls back to a global RAG knowledge base for general queries
 
----
+### 🛍️ Decathlon AI Shopping Assistant (3-Workflow System)
+> A complete shopping assistant pipeline, not a single bot.
 
-## 💬 Real-Time AI Chatbot
+- **Lead Capture** workflow for customer intent
+- **Website Scraper** workflow for live product/catalog data
+- **RAG Chatbot** workflow serving product Q&A from indexed data
 
-> Full-stack real-time chatbot with AI-powered conversations.
+### 🌐 Scraping → RAG Ingestion Pipeline
+> Generalized pipeline: scrape any site → structure into Sheets → embed and index into Pinecone for instant RAG search.
 
-**Built with**
+### 🏠 WhatsApp AI Lead Qualification (Real Estate, Pune Market)
+> A Hinglish-speaking AI persona ("Priya") that qualifies real-estate leads over WhatsApp.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
+- Redis-based conversation memory for context continuity
+- Pipedrive CRM integration for lead handoff
+- Slack escalation routing for hot leads
 
-### Features
-
-* ⚡ Real-time messaging
-* 🤖 AI conversations
-* 🔐 Backend API architecture
-* 💾 Persistent chat data
-* 🌐 Full-stack deployment
-
----
-
-## 🧑‍💼 The Menta
-
-> Career counselling platform designed to connect users with career guidance.
-
-**Built with**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-### Highlights
-
-* 🎓 Career counselling platform
-* 👥 User-focused experience
-* 📱 Responsive UI
-* 🔗 Full-stack architecture
-* 🚀 Scalable web application
+### 🎬 AI Text-to-Video Generator
+> n8n workflow using the Runway Gen-4.5 API with GPT-4o prompt expansion, outputting finished videos directly to Google Drive.
 
 ---
 
-# 🧠 AI Agent Projects
-
-### 📚 RAG Knowledge Agent
-
-`Google Drive → Document Processing → Embeddings → Pinecone → LLM → Answer`
-
-A document-based AI agent capable of retrieving relevant information from user-provided knowledge sources.
-
----
-
-### 🎬 AI Viral Video Creator
-
-`n8n → Gemini → Video Generation APIs → Automated Workflow`
-
-AI-powered content creation pipeline designed to automate the process of generating viral video concepts and content.
-
----
-
-### 🎙️ AI Voice Assistant
-
-`n8n → LLM → ElevenLabs → Voice`
-
-Voice-based AI assistant combining workflow automation, LLM reasoning and voice generation.
-
----
-
-### 🌐 AI Web Scraping Agent
-
-`URL → HTTP Request → Extraction → AI Processing → Google Sheets`
-
-Automated website intelligence system capable of extracting:
-
-* Website metadata
-* Headings
-* Emails
-* Phone numbers
-* Social links
-* Services
-* Products
-* Internal links
-* External links
-* Contact information
-
----
-
-### 🖼️ AI Image Scanner
-
-`Telegram → Gemini Vision → Structured Data → Google Sheets`
-
-AI-powered image processing workflow that receives images through Telegram, analyzes them using an AI vision model and stores structured information.
-
----
-
-### 🍔 AI Food Delivery & Inventory System
-
-AI-assisted food ordering system combining:
-
-* Orders
-* Inventory
-* Product information
-* Customer Q&A
-* Workflow automation
-
----
-
-# 🔥 My AI Engineering Journey
+## 🏗️ How I Build
 
 ```text
-Web Development
-       │
-       ▼
-MERN Stack
-       │
-       ▼
-APIs & Backend Systems
-       │
-       ▼
-n8n Automation
-       │
-       ▼
-LLM Applications
-       │
-       ▼
-RAG Systems
-       │
-       ▼
-LangChain
-       │
-       ▼
-LangGraph
-       │
-       ▼
-AI Agents
-       │
-       ▼
-Production AI Systems 🚀
+             ┌─────────────────────────┐
+             │      USER INTENT        │
+             └────────────┬────────────┘
+                          │
+        ┌──────────────────┼──────────────────┐
+        ▼                  ▼                  ▼
+   n8n WORKFLOW      RAG / PINECONE       LLM (GPT-4o / Gemini)
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                          ▼
+              STRUCTURED, PRODUCTION OUTPUT
+        (Sheets · CRM · Email · Slack · Chat Response)
 ```
+
+Every system I build is **modular** and **importable** — complete JSON workflow files with documented configuration placeholders, not partial snippets.
 
 ---
 
-# 🏗️ What I'm Building
+## 🎯 Currently Learning / 2026 Focus
 
-```text
-                    ┌───────────────────────┐
-                    │      AI AGENTS        │
-                    └───────────┬───────────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             ▼                  ▼                  ▼
-        RAG SYSTEMS        AUTOMATION         AI SAAS
-             │                  │                  │
-             ▼                  ▼                  ▼
-        Pinecone              n8n              Next.js
-        LangChain             APIs             FastAPI
-        LangGraph             Webhooks         PostgreSQL
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                ▼
-                     INTELLIGENT PRODUCTS
-```
+- Advanced RAG architectures & retrieval strategies
+- LangGraph for multi-step agent orchestration
+- FastAPI for custom backend layers around n8n workflows
+- Deepening OS & Theory of Computation fundamentals for systems-level thinking
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekchaudhary004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekchaudhary004&theme=tokyonight&hide_border=true" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekchaudhary004&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🤝 Let's Connect
+
+I'm looking for **internships / entry-level roles in AI automation, RAG systems, or backend + AI integration.**
+
+<p align="center">
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekchaudhary004&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🎯 2026 → 2027 Mission
-
-```text
-                 🚀 MISSION 2027
-
-                        │
-                        ▼
-
-              Master AI Engineering
-                        │
-        ┌───────────────┼───────────────┐
-        ▼               ▼               ▼
-      Agents           RAG          Automation
-        │               │               │
-        └───────────────┼───────────────┘
-                        ▼
-                 Production Systems
-                        │
-                        ▼
-                   AI Products
-                        │
-                        ▼
-                    SaaS / Startup
-```
-
-### Current Focus
-
-* 🧠 Advanced AI Agents
-* 🔗 LangGraph
-* 📚 Advanced RAG
-* ⚡ FastAPI
-* 🗄️ PostgreSQL
-* 🧩 Tool Calling
-* 🔄 n8n + AI
-* 🌐 Next.js
-* 🐳 Docker
-* ☁️ Production Deployment
-* 💰 AI SaaS Products
-
----
-
-# 💡 Developer Philosophy
-
-> **"The goal isn't to add AI to everything.**
-> **The goal is to build systems where AI creates real leverage."**
-
-I enjoy taking an idea from:
-
-`💡 Idea → 🧠 AI Logic → ⚙️ Automation → 💻 Product → 🚀 Deployment`
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in building:
-
-* 🤖 AI Agents
-* ⚡ AI Automation
-* 🧠 RAG Applications
-* 💼 AI SaaS
-* 🌐 Full-Stack AI Products
-* 🔥 Developer Tools
-* 🚀 Startup Ideas
-
-If you're working on something interesting, let's connect.
-
-<div align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-<br/>
-
-**BUILD • AUTOMATE • LEARN • SHIP 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
