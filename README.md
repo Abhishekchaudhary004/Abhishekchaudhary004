@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%26%20RAG%20Systems%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nishant&fontSize=50&fontColor=fff&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production+AI+Automation+Systems;n8n+%2B+RAG+%2B+Pinecone+%2B+LLMs;Final+Year+B.Tech+CSE+Student;Turning+Workflows+Into+Real+AI+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+**AI Automation Engineer &nbsp;|&nbsp; n8n & RAG Systems &nbsp;|&nbsp; Final Year B.Tech CSE**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production+AI+Automation+Systems;n8n+%2B+RAG+%2B+Pinecone+%2B+LLMs;Final+Year+B.Tech+CSE+Student;Turning+Workflows+Into+Real+AI+Products)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/nishant23194@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishant23194@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekchaudhary004)
