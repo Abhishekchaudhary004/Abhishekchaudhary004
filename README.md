@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nishant&fontSize=50&fontColor=fff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Abhishek&fontSize=50&fontColor=fff&animation=twinkling" />
 
 **AI Automation Engineer &nbsp;|&nbsp; n8n & RAG Systems &nbsp;|&nbsp; Final Year B.Tech CSE**
 
