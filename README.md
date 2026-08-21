@@ -1,162 +1,79 @@
-<!-- ========================================================= -->
-<!--                 GITHUB PROFILE README                      -->
-<!-- ========================================================= -->
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%26%20RAG%20Systems%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=16" />
 
-# Hi, I'm Nishant 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production+AI+Automation+Systems;n8n+%2B+RAG+%2B+Pinecone+%2B+LLMs;Final+Year+B.Tech+CSE+Student;Turning+Workflows+Into+Real+AI+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-### `AI Automation Engineer • n8n Workflow Architect • RAG & LLM Systems Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Production+AI+Automation+Systems;n8n+%7C+RAG+%7C+Pinecone+%7C+LangChain+%7C+LLMs;Turning+Theory+into+Systems;AI+Agents+that+Actually+Ship+to+Production" alt="Typing SVG" />
-
-<br/>
-
-<a href="#"><img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20AI%2FAutomation%20Roles-brightgreen?style=for-the-badge"/></a>
+[![Email](https://img.shields.io/badge/nishant23194@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishant23194@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekchaudhary004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abhishekchaudhary004.github.io/Portfolio/)
+[![GitHub followers](https://img.shields.io/github/followers/abhishekchaudhary004?style=flat-square&color=58A6FF&logo=github)](https://github.com/abhishekchaudhary004)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhishekchaudhary004&style=flat-square&color=58A6FF)](https://github.com/abhishekchaudhary004)
 
 </div>
 
 ---
 
-## 🧠 About Me
+### 👨‍💻 About Me
 
-```python
-class Nishant:
-    year = "4th Year — Computer Science"
-    role = "AI Automation Engineer"
+I'm a **Final year B.Tech CSE student** and an **AI Automation Engineer** who builds production-grade AI systems — not tutorial projects. My work sits at the intersection of **n8n workflow automation**, **RAG pipelines**, and **LLM-powered chat agents** that actually go live and handle real users.
 
-    core_focus = [
-        "n8n Workflow Automation",
-        "RAG (Retrieval-Augmented Generation) Systems",
-        "AI Chat Agents & Assistants",
-        "Lead Generation & CRM Automation"
-    ]
-
-    academic_foundation = [
-        "Operating Systems (Deadlocks, Banker's Algorithm, RAG diagrams)",
-        "Theory of Computation (PCP, Arden's Method, NFA/DFA)",
-        "Data Structures & Algorithms"
-    ]
-
-    philosophy = "I don't just build workflows — I build systems that go live and handle real users."
-```
-
-I'm a Computer Science student who builds **production-grade AI automation systems** — not tutorial projects. My work spans AI chat agents with real memory & session handling, RAG pipelines backed by Pinecone, admissions/lead-generation systems for real institutions, and end-to-end scraping-to-database pipelines. Every workflow I ship is modular, documented, and built to actually run — not just demo.
+- 🔭 Currently building AI chat agents, RAG systems & admissions/lead-gen automation with **n8n · Pinecone · LangChain**
+- 🧠 Strong fundamentals in **DSA, Operating Systems (deadlocks, Banker's Algorithm), Theory of Computation (PCP, Arden's Method)**
+- ⚙️ Design modular, importable workflows — complete JSON files with documented configs, never partial snippets
+- 📬 nishant23194@gmail.com
 
 ---
 
-## ⚙️ Tech Stack
+### 🚀 Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,postgresql" />
-</p>
-
-**Automation & Orchestration:** `n8n` · `Webhooks` · `REST APIs` · `Google Sheets API` · `Gmail API` · `Google Drive API`
-
-**AI / LLM Layer:** `OpenAI GPT-4o` · `Google Gemini` · `LangChain` · `Prompt Engineering` · `RAG` · `Tool Calling`
-
-**Data & Memory:** `Pinecone (Vector DB)` · `Supabase` · `Redis (Conversation Memory)`
-
-**Integrations:** `Pipedrive CRM` · `Slack` · `Telegram` · `Runway Gen-4.5 API`
+- **MedCounsel AI** — RAG assistant structuring Indian medical college admission data (colleges, courses, seats, cutoffs)
+- **AUFHS AI Assistant** — Pinecone/RAG-backed health-sciences admissions assistant with an engineered system prompt
+- **AICAMSR Admission Enquiry Workflow** — Automated lead intake with dedup, Google Sheets storage & Gmail alerts
+- **NEET 2026 Lead Gen** — End-to-end lead generation + automated follow-up system for NEET aspirants
+- **Decathlon AI Shopping Assistant** — 3-workflow system: lead capture, live site scraper, RAG chatbot
+- **Production AI Chat Agent** — Modular Gemini + Supabase system with sessions, memory, and analytics
+- **Hybrid RAG PDF Agent** — Auto-routes between per-session PDF search and global knowledge base
+- **WhatsApp Lead Qualification Bot** — Hinglish AI persona for real estate, with Redis memory + Pipedrive CRM
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 AI Admissions & Counselling Agents
-> Multiple production RAG-based assistants built for real institutions, handling live admissions queries.
-
-- **MedCounsel AI** — Structures and serves Indian medical college admission data (colleges, courses, seats, cutoffs) through an n8n-powered RAG assistant.
-- **AUFHS AI Assistant** — RAG/Pinecone-backed admissions & health-sciences assistant with a carefully engineered system prompt for accuracy.
-- **AICAMSR Admission Enquiry Workflow** — Automated lead intake with user validation, email/phone deduplication, Google Sheets storage, and Gmail notifications.
-- **NEET 2026 Lead Gen** — End-to-end lead generation and automated follow-up system for NEET aspirants.
-- **Accenture Career Agent** — Scrapes site content into structured sheets, indexes it in Pinecone, and serves answers via a GPT-4o mini chat model refined on real interactions.
-
-### 💬 Production AI Chat Agent (n8n + Gemini + Supabase)
-> A modular, multi-user AI chat system — not a single webhook, a full platform.
-
-- User & session management with persistent conversation memory
-- Automated summary emails and usage analytics
-- Built on Gemini + Supabase for scale and reliability
-
-### 📄 Hybrid RAG PDF Chat Agent
-> Auto-detects whether a user uploaded a PDF or asked a plain question, and routes accordingly.
-
-- Per-session Pinecone indexing for uploaded PDFs
-- Falls back to a global RAG knowledge base for general queries
-
-### 🛍️ Decathlon AI Shopping Assistant (3-Workflow System)
-> A complete shopping assistant pipeline, not a single bot.
-
-- **Lead Capture** workflow for customer intent
-- **Website Scraper** workflow for live product/catalog data
-- **RAG Chatbot** workflow serving product Q&A from indexed data
-
-### 🌐 Scraping → RAG Ingestion Pipeline
-> Generalized pipeline: scrape any site → structure into Sheets → embed and index into Pinecone for instant RAG search.
-
-### 🏠 WhatsApp AI Lead Qualification (Real Estate, Pune Market)
-> A Hinglish-speaking AI persona ("Priya") that qualifies real-estate leads over WhatsApp.
-
-- Redis-based conversation memory for context continuity
-- Pipedrive CRM integration for lead handoff
-- Slack escalation routing for hot leads
-
-### 🎬 AI Text-to-Video Generator
-> n8n workflow using the Runway Gen-4.5 API with GPT-4o prompt expansion, outputting finished videos directly to Google Drive.
-
----
-
-## 🏗️ How I Build
-
-```text
-             ┌─────────────────────────┐
-             │      USER INTENT        │
-             └────────────┬────────────┘
-                          │
-        ┌──────────────────┼──────────────────┐
-        ▼                  ▼                  ▼
-   n8n WORKFLOW      RAG / PINECONE       LLM (GPT-4o / Gemini)
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                          ▼
-              STRUCTURED, PRODUCTION OUTPUT
-        (Sheets · CRM · Email · Slack · Chat Response)
-```
-
-Every system I build is **modular** and **importable** — complete JSON workflow files with documented configuration placeholders, not partial snippets.
-
----
-
-## 🎯 Currently Learning / 2026 Focus
-
-- Advanced RAG architectures & retrieval strategies
-- LangGraph for multi-step agent orchestration
-- FastAPI for custom backend layers around n8n workflows
-- Deepening OS & Theory of Computation fundamentals for systems-level thinking
-
----
-
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm looking for **internships / entry-level roles in AI automation, RAG systems, or backend + AI integration.**
-
-<p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekchaudhary004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchaudhary004&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=abhishekchaudhary004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
