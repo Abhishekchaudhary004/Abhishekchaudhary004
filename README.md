@@ -8,7 +8,7 @@
 
 ### `AI Automation Engineer • n8n Workflow Architect • RAG & LLM Systems Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Production+AI+Automation+Systems;n8n+%7C+RAG+%7C+Pinecone+%7C+LangChain+%7C+LLMs;+%7C+Turning+Theory+into+Systems;AI+Agents+that+Actually+Ship+to+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Production+AI+Automation+Systems;n8n+%7C+RAG+%7C+Pinecone+%7C+LangChain+%7C+LLMs;Turning+Theory+into+Systems;AI+Agents+that+Actually+Ship+to+Production" alt="Typing SVG" />
 
 <br/>
 
